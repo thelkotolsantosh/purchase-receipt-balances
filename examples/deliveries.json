@@ -1,0 +1,1 @@
+{"lines":[{"id":"PO-41/1","ordered":12},{"id":"PO-41/2","ordered":4}],"receipts":[{"id":"R1/1","line_id":"PO-41/1","units":5},{"id":"R2/1","line_id":"PO-41/1","units":4},{"id":"R2/2","line_id":"PO-41/2","units":5}]}
